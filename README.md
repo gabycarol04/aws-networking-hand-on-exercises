@@ -1,4 +1,4 @@
-# aws-networking-hand-on-exercises
+# AWS Networking - Hand on exercises
 
 Hand on exercises for understanding AWS networking
 
